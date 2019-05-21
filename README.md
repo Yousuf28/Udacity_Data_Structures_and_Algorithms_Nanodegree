@@ -1,1 +1,4 @@
 # Udacity_Data_Structures_and_Algorithms_Nanodegree
+
+
+-  [Data_Structures_and_Algorithms_Syllabus](https://nbviewer.jupyter.org/github/Yousuf28/Udacity_Data_Structures_and_Algorithms_Nanodegree/blob/master/Data_Structures_and_Algorithms_Syllabus.pdf)
